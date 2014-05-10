@@ -1,4 +1,5 @@
 drf-wrapper is a restful api wrapper which can bundle several api calls into one
+As described in this blog: https://medium.com/p/f08711462414
 
 Motivation:
 When we design restful api, we tends to design clean api, one resource for one endpoints. 
